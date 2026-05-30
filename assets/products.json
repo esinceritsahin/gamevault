@@ -1,0 +1,117 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Elden Ring",
+      "tagline": "Rise, Tarnished, and be guided by grace.",
+      "description": "The Golden Order has been broken. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between. In the Lands Between ruled by Queen Marika the Eternal, the Elden Ring, the source of the Erdtree, has been shattered.",
+      "price": "$59.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+      "specs": {
+        "developer": "FromSoftware",
+        "genre": "Action RPG",
+        "platforms": "PC, PS5, Xbox"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Cyberpunk 2077",
+      "tagline": "Welcome to the Night City.",
+      "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a cyberpunk mercenary wrapped up in a do-or-die fight for survival. Improved and featuring all-new free additional content, customize your character and playstyle as you take on jobs, build a reputation, and unlock upgrades.",
+      "price": "$59.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+      "specs": {
+        "developer": "CD Projekt RED",
+        "genre": "Sci-Fi RPG",
+        "platforms": "PC, PS5, Xbox"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Red Dead Redemption 2",
+      "tagline": "Outlaws for life.",
+      "description": "America, 1899. Arthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.",
+      "price": "$59.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+      "specs": {
+        "developer": "Rockstar Games",
+        "genre": "Open World",
+        "platforms": "PC, PS4, Xbox"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hogwarts Legacy",
+      "tagline": "Live the Unwritten.",
+      "description": "Hogwarts Legacy is an open-world action RPG set in the world first introduced in the Harry Potter books. Embark on a journey through familiar and new locations as you explore and discover magical beasts, customize your character and craft potions, master spell casting, upgrade talents and become the wizard you want to be.",
+      "price": "$59.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg",
+      "specs": {
+        "developer": "Avalanche Software",
+        "genre": "Action RPG",
+        "platforms": "PC, PS5, Switch"
+      }
+    },
+    {
+      "id": 5,
+      "name": "God of War",
+      "tagline": "A New Beginning.",
+      "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters. It is in this harsh, unforgiving world that he must fight to survive... and teach his son to do the same.",
+      "price": "$49.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+      "specs": {
+        "developer": "Santa Monica Studio",
+        "genre": "Action-Adventure",
+        "platforms": "PC, PS4, PS5"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Spider-Man Remastered",
+      "tagline": "Be Greater.",
+      "description": "In Marvel's Spider-Man Remastered, the worlds of Peter Parker and Spider-Man collide in an original action-packed story. Play as an experienced Peter Parker, fighting big crime and iconic villains in Marvel's New York. Web-sling through vibrant neighborhoods and defeat villains with epic takedowns.",
+      "price": "$59.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg",
+      "specs": {
+        "developer": "Insomniac Games",
+        "genre": "Action, Superhero",
+        "platforms": "PC, PS5"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Forza Horizon 5",
+      "tagline": "Your Ultimate Horizon Adventure.",
+      "description": "Lead breathtaking expeditions across the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world's greatest cars. Explore a world of striking contrast and beauty while competing in racing challenges.",
+      "price": "$59.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+      "specs": {
+        "developer": "Playground Games",
+        "genre": "Racing, Simulator",
+        "platforms": "PC, Xbox"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Grand Theft Auto V",
+      "tagline": "Welcome to Los Santos.",
+      "description": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other.",
+      "price": "$29.99",
+      "currency": "USD",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+      "specs": {
+        "developer": "Rockstar North",
+        "genre": "Action, Open World",
+        "platforms": "PC, PS5, Xbox"
+      }
+    }
+  ]
+}
